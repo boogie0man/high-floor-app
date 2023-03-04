@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "high-floor-app",
+    "slug": "high-floor-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "high-floor-app"
+}
